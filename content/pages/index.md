@@ -14,7 +14,7 @@ sections:
       Explore training resources, recommended toys and health tips from renown
       vets!
     actions:
-      - title: See all items
+      - title: Get Our Puppy Starter Kit!
         url: /store
         arrow: true
         style: primary
