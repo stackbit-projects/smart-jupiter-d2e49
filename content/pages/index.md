@@ -7,11 +7,12 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: >
+      # Your Go-To Resource for Raising a Healthy, Happy Puppy!
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+
+      Explore training resources, recommended toys and health tips from renown
+      vets!
     actions:
       - title: See all items
         url: /store
